@@ -1,6 +1,5 @@
 # Predictive modelling with Python
-UL FRI Data Science Workshop
-*Jure Žabkar, Wed 23rd September 2020*
+UL FRI Data Science Workshop, *Jure Žabkar, Wed 23rd September 2020*
 
 ---
 
