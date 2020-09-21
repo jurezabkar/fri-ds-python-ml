@@ -1,7 +1,5 @@
-# fri-ds-python-ml
-Materials for UL FRI Data Science Workshop:
 # Predictive modelling with Python
-
+UL FRI Data Science Workshop
 *Jure Žabkar, Wed 23rd September 2020*
 
 ---
