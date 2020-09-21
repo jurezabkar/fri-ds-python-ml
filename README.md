@@ -30,7 +30,7 @@ Step-by-step modelling with **California Housing** data set.
 The most elegant way to install the required software is by installing [Conda](https://docs.conda.io/en/latest/). You can either install:
 * the entire set of packages in [Anaconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) **or**
 * [Miniconda](https://docs.conda.io/en/latest/miniconda.html) first, and manually add packages `scikit-learn`, `pandas` and `matplotlib`:
-  ```
+```
 conda install -c intel scikit-learn
 conda install pandas matplotlib
-  ```
+```
