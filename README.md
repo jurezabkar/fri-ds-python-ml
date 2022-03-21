@@ -17,7 +17,7 @@ Familiarity with Python will be helpful, but programming skills in any other pro
 
 #### 17:30 - 18:00
 
-![Coffee break](./images/coffee.png)
+![Coffee break](./coffee.png)
 
 ---
 
