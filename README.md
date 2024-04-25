@@ -1,8 +1,9 @@
-# Predictive modelling with Python
+# Predictive modeling with Python
 
-*Jure Žabkar, Wed 5th April 2023*
+*Jure Žabkar*
+*Thu, 25 April 2024*
 
-This workshop is an introductory hands-on course on doing a machine learning project in Python. It is aimed at students and professionals who want to learn the basics of data preparation, classification, regression and model evaluation using the state-of-the-art machine learning library scikit-learn.
+This workshop is an introductory hands-on course on doing a machine learning project in Python. It is aimed at students and professionals who want to learn the basics of data preparation, classification, regression, and model evaluation using the state-of-the-art machine learning library scikit-learn.
 
 Familiarity with Python will be helpful, but programming skills in any other programming language would do as well.
 
@@ -23,7 +24,7 @@ Familiarity with Python will be helpful, but programming skills in any other pro
 
 #### 18:00 - 20:00
 
-Step-by-step modelling with **California Housing** data set.
+Step-by-step modeling with **California Housing** data set.
 
 - introducing the workflow,
 - visualization,
