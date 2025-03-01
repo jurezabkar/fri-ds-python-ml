@@ -2,7 +2,7 @@
 
 *Jure Žabkar*
 
-*Thu, 25 April 2024*
+*Wed, 5 March 2025*
 
 This workshop is an introductory hands-on course on doing a machine learning project in Python. It is aimed at students and professionals who want to learn the basics of data preparation, classification, regression, and model evaluation using the state-of-the-art machine learning library scikit-learn.
 
@@ -42,9 +42,9 @@ The most elegant way to install the required software is by installing [Conda](h
 
 * the entire set of packages in [Anaconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) **or**
 
-* [Miniconda](https://docs.conda.io/en/latest/miniconda.html) first, and manually add packages `scikit-learn`, `pandas` and `matplotlib`:
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html) first, and manually add the following packages:
   
   ```
-  conda install -c intel scikit-learn
-  conda install pandas matplotlib
+  conda install scikit-learn pandas matplotlib seaborn
+  conda install anaconda::jupyter
   ```
