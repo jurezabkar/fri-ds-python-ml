@@ -10,20 +10,20 @@ Familiarity with Python will be helpful, but programming skills in any other pro
 
 ---
 
-#### 15:30 - 17:30
+#### 16:00 - 18:00
 
 - Introduction to regression and classification
 - Basic examples of `scikit-learn` on artificial data set
 
 ---
 
-#### 17:30 - 18:00
+#### 18:00 - 18:20
 
 ![Coffee break](./coffee.png)
 
 ---
 
-#### 18:00 - 20:00
+#### 18:20 - 20:00
 
 Step-by-step modeling with **California Housing** data set.
 
